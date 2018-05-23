@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1527108268 source:c:\users\a120035\pilha_estatica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Pilha_Estatica.h"
+
+1527108291 c:\users\a120035\pilha_estatica\pilha_estatica.h
+
